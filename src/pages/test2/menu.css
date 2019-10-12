@@ -1,0 +1,19 @@
+.ant-layout-sider-collapsed .anticon {
+  font-size: 16px;
+}
+
+.ant-layout-sider-collapsed .nav-text {
+  display: none;
+}
+
+.ant-layout-header{
+  background: white;
+  padding: 0;
+
+}
+.ant-form-item{
+  margin-bottom: 0;
+}
+.ant-layout-sider{
+  background: white;
+}
